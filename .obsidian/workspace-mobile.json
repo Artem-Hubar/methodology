@@ -161,8 +161,8 @@
         "state": {
           "type": "juggl_nodes",
           "state": {},
-          "icon": "ag-node-list",
-          "title": "Juggl nodes"
+          "icon": "lucide-file",
+          "title": "Плагин больше не активен"
         }
       },
       {
@@ -171,22 +171,32 @@
         "state": {
           "type": "juggl_style",
           "state": {},
-          "icon": "ag-style",
-          "title": "Juggl style"
+          "icon": "lucide-file",
+          "title": "Плагин больше не активен"
+        }
+      },
+      {
+        "id": "97f61122bb730565",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
       "canvas:Создать новый холст": false,
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false,
-      "juggl:Juggl global graph": false
+      "command-palette:Открыть палитру команд": false
     }
   },
   "active": "dc0beba062a08710",
