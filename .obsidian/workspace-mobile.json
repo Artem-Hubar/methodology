@@ -1,0 +1,230 @@
+{
+  "main": {
+    "id": "ef7cfd6a5b147fbb",
+    "type": "split",
+    "children": [
+      {
+        "id": "f2474b898dafb80d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7df81a5f48824cdb",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
+            }
+          },
+          {
+            "id": "dc0beba062a08710",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
+            }
+          },
+          {
+            "id": "45a1f9f915acef37",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d2fd91ecdf2c74fb",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "73426f262698ce0c",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Файловый менеджер"
+        }
+      },
+      {
+        "id": "75c9264d30c1c17c",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "tag:#учить",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": true,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Поиск"
+        }
+      },
+      {
+        "id": "d30b2217e631a7a3",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Теги"
+        }
+      },
+      {
+        "id": "3608354f241035df",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Закладки"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "9db926a857694342",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "9eb60d3e703d7994",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Учить.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Обратные ссылки"
+        }
+      },
+      {
+        "id": "af70454081415300",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Исходящие ссылки"
+        }
+      },
+      {
+        "id": "e92f585f1f372edc",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Структура"
+        }
+      },
+      {
+        "id": "50a186f3d18104e2",
+        "type": "leaf",
+        "state": {
+          "type": "juggl_nodes",
+          "state": {},
+          "icon": "ag-node-list",
+          "title": "Juggl nodes"
+        }
+      },
+      {
+        "id": "969586317a145cf8",
+        "type": "leaf",
+        "state": {
+          "type": "juggl_style",
+          "state": {},
+          "icon": "ag-style",
+          "title": "Juggl style"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "juggl:Juggl global graph": false
+    }
+  },
+  "active": "dc0beba062a08710",
+  "lastOpenFiles": [
+    "Учить.md",
+    "Мета і завдання.md",
+    "ЦПО/Методологія/Основні інструменти методології/Основні інструменти методології.md",
+    "ЦПО/Методологія/Основні інструменти методології/Методи/Методика наукового дослідження/Властивості методики/Властивості методики.md",
+    "ЦПО/Методологія/Основні інструменти методології/Методи/Методика наукового дослідження/Логічна структура компонентів методики.md",
+    "Тест.md",
+    "ЦПО/Методологія/Основні інструменти методології/Методи/Классифікації методів/Спільне між методом і методикою.md",
+    "ЦПО/Методологія/Основні інструменти методології/Методи/Методика наукового дослідження/Властивості методики/Адаптивність методики.md",
+    "ЦПО/Методологія/Zooniverse.md",
+    "ЦПО/Види наук.md",
+    "ЦПО/Методологія/Основні інструменти методології/Методи/Классифікації методів/Відмінне між методом і методикою.md",
+    "ЦПО/Методологія/Конкретно-наукова методологія/Відмінності від інших рівнів методології.md",
+    "Без названия.canvas",
+    "2025-07-23.md",
+    "ЦПО/Відкрита наука/Відкрита наука.md",
+    "Тест/Тест.md",
+    "Тест",
+    "ЦПО/Методологія/Основні функції методології.md",
+    "Основні інструменти методології.md",
+    "ЦПО/Методологія/Методологія.md",
+    "Zooniverse.md",
+    "ЦПО/Методологія",
+    "ЦПО/Відкрита наука/Партисипативні дослідження.md",
+    "ЦПО/Відкрита наука/Види інфраструктур.md",
+    "ЦПО/Відкрита наука/Громадська наука.md",
+    "ЦПО/Відкрита наука/Відкрита участь соціальних суб'єктів.md",
+    "ЦПО/Відкрита наука/Відкрита наукова інфраструктура.md",
+    "ЦПО/Відкрита наука/EGI.md",
+    "ЦПО/Відкрита наука/Zenodo.md",
+    "ЦПО/Відкрита наука",
+    "Стадія",
+    "Other",
+    "ЦПО/Наука/Проблематика",
+    "ЦПО/Інші науки",
+    "ЦПО/Наука"
+  ]
+}
